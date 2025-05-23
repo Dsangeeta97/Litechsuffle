@@ -1,0 +1,14 @@
+torch==2.1.0
+torchvision==0.16.0
+timm==0.9.9
+torchsummary==1.5.1
+matplotlib==3.8.1
+scikit-learn==1.3.2
+numpy==1.26.0
+pillow==10.0.1
+scipy==1.11.3
+joblib==1.3.2
+threadpoolctl==3.2.0
+pyyaml==6.0
+huggingface-hub==0.18.0
+safetensors==0.4.0
