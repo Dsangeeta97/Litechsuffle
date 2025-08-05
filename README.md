@@ -32,7 +32,7 @@ If you use this work in your research, please cite:
 @article{Sangeeta2025LiteCShuffle,
   title={LiteCShuffle: A Lightweight CNN Architecture for Plant Leaf Disease Detection},
   author={Sangeeta Duhan, Preeti Gulia, Nasib Singh Gill, Aulia Luqman Aziz, Mohammed Aljuaid, Sumit Kumar Banshal, Rohit Bansal},
-  journal={Cogent Food & Agricutlure},
+  journal={xxxx},
   year={2025},
   doi={10.xxxx/xxxx}
 }
